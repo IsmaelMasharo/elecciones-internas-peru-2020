@@ -1,5 +1,5 @@
 # Elecciones Internas en Perú 2020
-Consulta de los resultados de las elecciones internas de las organizaciones políticas en Perú llevadas acabo en noviembre y diciembre del 2020. 
+Consulta de los resultados de las elecciones internas de las organizaciones políticas en Perú llevadas acabo en noviembre y diciembre del 2020. En este [post de Observable](https://observablehq.com/@ismaelmasharo/elecciones-internas-en-peru-2020) pueden encontrarse mayor detalle acerca del proceso y los resultados.
 
 ### Consulta ONPE
 Los resultados aquí presentes se obtuvieron realizando web scrapping a la [página de la ONPE](https://resultados.onpe.gob.pe/IN2020/Home). 
